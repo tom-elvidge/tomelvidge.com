@@ -8,8 +8,7 @@ A Gatsby blog based on the Gatsby starter [Lumen](https://github.com/alxshelepen
 ```
 $ git clone https://github.com/tom-elvidge/tomelvidge.com.git
 $ cd tomelvidge.com
-$ yarn
-$ npm run develop
+$ gatsby develop
 ```
 To test the CMS locally, you'll need run a production build of the site:
 ```

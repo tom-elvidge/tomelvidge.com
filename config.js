@@ -1,49 +1,49 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.tomelvidge.com/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Tom Elvidge',
+  subtitle: 'Computer Science student at the University of York currently on placement as a Software Engineer at Amadeus.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  // googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Tom Elvidge',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Computer Science student at the University of York currently on placement as a Software Engineer at Amadeus.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'tomelvidge1999@gmail.com',
+      // facebook: '#',
+      // telegram: '#',
+      twitter: 'tomelvidge_',
+      github: 'tom-elvidge',
+      // rss: '',
+      // vkontakte: '',
+      linkedin: 'tom-elvidge-299b4a18a',
+      instagram: 't.elvidge',
+      // line: '',
+      // gitlab: '',
+      // weibo: '',
+      // codepen: '',
+      youtube: 'UCTrkcWj4SScHVbdu2d6lEmg',
+      // soundcloud: '',
     }
   }
 };

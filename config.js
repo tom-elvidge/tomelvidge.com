@@ -27,9 +27,9 @@ module.exports = {
   author: {
     name: 'Tom Elvidge',
     photo: '/photo.jpg',
-    bio: 'Computer Science student at the University of York currently on placement as a Software Engineer at Amadeus.',
+    bio: 'Software Engineer with full stack experience and a passion for backend development, data and machine learning. Currently in the final year of my Computer Science degree at the University of York.',
     contacts: {
-      email: 'tomelvidge1999@gmail.com',
+      email: 'elvidge.tom@gmail.com',
       // facebook: '#',
       // telegram: '#',
       twitter: 'tomelvidge_',
@@ -42,7 +42,7 @@ module.exports = {
       // gitlab: '',
       // weibo: '',
       // codepen: '',
-      youtube: 'UCTrkcWj4SScHVbdu2d6lEmg',
+      // youtube: 'UCTrkcWj4SScHVbdu2d6lEmg',
       // soundcloud: '',
     }
   }
